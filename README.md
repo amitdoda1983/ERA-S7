@@ -2,7 +2,7 @@
 
 ## Building custom CNN model to achieve 99.4 % accuracy in less than 15 epochs using less than 8000 parameters
 
-### Experiment 1
+### Experiment 1 : ERA1S7_Net1
 
 #### targets : Build the right skeleton model which gets to required receptive field of 24/28 and 99.4% accuracy 
 
@@ -13,7 +13,7 @@
 links : https://github.com/amitdoda1983/ERA-S7/blob/main/ERA1S7_Net1.ipynb
 
 
-### Experiment 2
+### Experiment 2 : ERA1S7_Net2
 
 #### targets : To achieve 99.4 in less than 15 epochs using less than 8k parameters
 
@@ -26,7 +26,7 @@ It allowed trimming the number of kernels in the network which helped reduce the
 links : https://github.com/amitdoda1983/ERA-S7/blob/main/ERA1S7_Net2.ipynb
 
 
-### Experiment 3
+### Experiment 3 : ERA1S7_Net3
 
 #### targets : To consistently achieve 99.4 plus accuracy in 15 epochs.
 
