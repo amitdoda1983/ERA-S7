@@ -41,6 +41,11 @@ links : https://github.com/amitdoda1983/ERA-S7/blob/main/ERA1S7_Net3.ipynb
 
 ![image](https://github.com/amitdoda1983/ERA-S7/assets/37932202/4cf70d4f-5eee-4269-a0d3-aaee8a6af47c)
 
+### Receptive field:
+
+![image](https://github.com/amitdoda1983/ERA-S7/assets/37932202/95ddd4bb-4fdf-45b0-b60c-3850a3008e35)
+
+
 ### Results : 
 
 ![image](https://github.com/amitdoda1983/ERA-S7/assets/37932202/54163da9-d2b4-47ff-b146-d6eaa2f1a822)
